@@ -1,0 +1,16 @@
+{
+  "short_name": "MMonyEz",
+  "name": "MMonyEz",
+  "icons": [
+    {
+      "src": "favicon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/https://mmonyez-g9wtbfdecgwfuazgy7754e.streamlit.app/",
+  "display": "standalone",
+  "theme_color": "#ad0c0c",
+  "background_color": "#1f0404",
+  "description": "money managment"
+}
