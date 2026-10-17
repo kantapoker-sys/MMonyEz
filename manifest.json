@@ -1,0 +1,15 @@
+{
+  "short_name": "MMonyEz",
+  "name": "MMonyEz",
+  "icons": [
+    {
+      "src": "favicon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://mmonyez-g9wtbfdecgwfuazgy7754e.streamlit.app/",
+  "display": "standalone",
+  "theme_color": "#e60012",
+  "background_color": "#ffffff"
+}
